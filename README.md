@@ -1,3 +1,6 @@
+# UPDATE: THIS REPO IS DEPRECATED IN FAVOR OF https://github.com/microsoft/just
+# ALL PRs will need to be done against that repo
+
 # Just
 
 `Just` is a build task definition library. It stands on the shoulders of two excellent and well tested libraries: [undertaker](https://github.com/gulpjs/undertaker) and [yargs](https://github.com/yargs/yargs).
